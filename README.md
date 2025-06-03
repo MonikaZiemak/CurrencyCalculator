@@ -33,7 +33,7 @@ Naciśnij dowolny klawisz, aby zakończyć...
 
 1. **Uzyskaj darmowy klucz API**:
    - Zarejestruj się na stronie [Alpha Vantage](https://www.alphavantage.co/support/#api-key)
-   - Otrzymasz klucz API e-mailem.
+   - Otrzymasz klucz API, skopiuj go.
 
 2. **Sklonuj repozytorium lub pobierz kod**:
    ```bash
