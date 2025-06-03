@@ -54,7 +54,7 @@ Naciśnij dowolny klawisz, aby zakończyć...
 Alpha Vantage zwraca dane w formacie JSON. Aplikacja automatycznie przetwarza odpowiedź i oblicza kurs EUR → BTC.
 
 
-## ❗ Uwagi
+## Uwagi
 
 - Kurs BTC do EUR jest pobierany, ale następnie przeliczany na EUR → BTC (1 / rate).
 - Alpha Vantage może mieć ograniczenie liczby zapytań na minutę/dzień (FREE tier).
