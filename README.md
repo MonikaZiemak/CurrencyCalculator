@@ -37,7 +37,7 @@ Naciśnij dowolny klawisz, aby zakończyć...
 
 2. **Sklonuj repozytorium lub pobierz kod**:
    ```bash
-   git clone https://github.com/twojanazwa/CurrencyCalculator.git
+   git clone https://github.com/MonikaZiemak/CurrencyCalculator
    
 
 3. **Otwórz projekt w Visual Studio 2022**
@@ -68,4 +68,4 @@ Ten projekt jest dostępny na licencji MIT – możesz go dowolnie używać i mo
 
 ## Autor
 
-Projekt stworzony w celach edukacyjnych, jako ćwiczenie nauki C#, pracy z API oraz Gita.
+Projekt stworzony w celach edukacyjnych, jako ćwiczenie nauki C# oraz pracy z API.
